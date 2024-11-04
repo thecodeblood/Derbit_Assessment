@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\Derbit_Test\build\CMakeFiles\11cd2e5b4f1580fbf0668ddc9964d01d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{31C3E59E-383C-384D-AB2F-7DBA24C7D789}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Projects/Derbit_Test/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OrderExecutionManagement.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OrderExecutionManagement.dir\\src\\http_client.cpp.obj -c D:\\Projects\\Derbit_Test\\src\\http_client.cpp",
+  "file": "D:/Projects/Derbit_Test/src/http_client.cpp",
+  "output": "CMakeFiles/OrderExecutionManagement.dir/src/http_client.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Derbit_Test/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OrderExecutionManagement.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OrderExecutionManagement.dir\\src\\main.cpp.obj -c D:\\Projects\\Derbit_Test\\src\\main.cpp",
+  "file": "D:/Projects/Derbit_Test/src/main.cpp",
+  "output": "CMakeFiles/OrderExecutionManagement.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Projects/Derbit_Test/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/OrderExecutionManagement.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\OrderExecutionManagement.dir\\src\\websocket_server.cpp.obj -c D:\\Projects\\Derbit_Test\\src\\websocket_server.cpp",
+  "file": "D:/Projects/Derbit_Test/src/websocket_server.cpp",
+  "output": "CMakeFiles/OrderExecutionManagement.dir/src/websocket_server.cpp.obj"
+}
+]

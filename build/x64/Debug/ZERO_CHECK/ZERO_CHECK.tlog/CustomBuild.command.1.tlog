@@ -1,0 +1,10 @@
+^D:\PROJECTS\DERBIT_TEST\BUILD\CMAKEFILES\11CD2E5B4F1580FBF0668DDC9964D01D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/Projects/Derbit_Test -BD:/Projects/Derbit_Test/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/Projects/Derbit_Test/build/OrderExecutionManagement.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
